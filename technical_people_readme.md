@@ -3,6 +3,8 @@
 - Vue.js
 
 #### Things I've worked with a little:
+- React.js
+- Material UI
 - Elasticsearch
 - .net core mvc
 - cypress (testing framework)
