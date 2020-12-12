@@ -2,7 +2,8 @@
 Thanks for actually looking into my github profile. Because I receive a lot of offers that require experience 
 in domains in which I have none or am not interested, I've made a list of technologies that you can search.   
 
-If the technology has a ~~strikethrough~~ it means I have no experience AND I am not interested.  
+If the technology has a ~~strikethrough~~ it means I have no experience AND I am not interested.
+If the technology is *italicized* it means I am interest BUT I do not have a lot of experience (< 3 years)
 If the technology has no "decoration", it means I am interested AND I have sufficient experience (at least 3 years)   
 
 #### Interested and have experience:
@@ -15,7 +16,10 @@ If the technology has no "decoration", it means I am interested AND I have suffi
 - Html
 - Css / Sass / Scss
 - Mysql
-- Vagrant / Homestead
+
+### Interested but I don't have a lot of experience
+- React
+- Docker
 
 #### Not interested:
 - ~~Java~~
@@ -25,4 +29,3 @@ If the technology has no "decoration", it means I am interested AND I have suffi
 - ~~Android~~
 - ~~Symfony~~
 - ~~Magento~~
-- ~~React~~
