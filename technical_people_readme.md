@@ -3,6 +3,7 @@
 - Vue.js
 
 #### Things I've worked with a little:
+- Symfony
 - React.js
 - Material UI
 - Elasticsearch
