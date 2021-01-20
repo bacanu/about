@@ -27,5 +27,4 @@ If the technology has no "decoration", it means I am interested AND I have suffi
 - ~~Wordpress / WooCommerce~~
 - ~~iOS~~
 - ~~Android~~
-- ~~Symfony~~
 - ~~Magento~~
