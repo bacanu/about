@@ -2,9 +2,12 @@
 - Laravel from 4.0 up to the present version. 
 - Vue.js
 
-#### Things I've worked with a little:
+#### Things I've worked with:
 - Symfony
 - React.js
+
+#### Things I've worked with a little:
+
 - Material UI
 - Elasticsearch
 - .net core mvc
