@@ -21,9 +21,10 @@ If the technology has no "decoration", it means I am interested AND I have suffi
 - Docker
 
 #### Not interested:
+- ~~Symfony~~
 - ~~Java~~
 - ~~Python~~
-- ~~Wordpress / WooCommerce / Symfony~~
+- ~~Wordpress / WooCommerce ~~
 - ~~iOS~~
 - ~~Android~~
 - ~~Magento~~
