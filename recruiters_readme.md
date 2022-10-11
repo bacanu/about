@@ -10,7 +10,7 @@ If the technology has no "decoration", it means I am interested AND I have suffi
 - PHP (5.4 onward)  
 - Javascript (not to be confused with ~~Java~~)  
 - Laravel (4.2 onward)
-- Vue.js
+- React
 - Git
 - REST APIs
 - Html
@@ -18,13 +18,12 @@ If the technology has no "decoration", it means I am interested AND I have suffi
 - Mysql
 
 ### Interested but I don't have a lot of experience
-- React
 - Docker
 
 #### Not interested:
 - ~~Java~~
 - ~~Python~~
-- ~~Wordpress / WooCommerce~~
+- ~~Wordpress / WooCommerce / Symfony~~
 - ~~iOS~~
 - ~~Android~~
 - ~~Magento~~
