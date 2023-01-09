@@ -18,10 +18,11 @@ If the technology has no "decoration", it means I am interested AND I have suffi
 - Mysql
 
 ### Interested but I don't have a lot of experience
-- Docker
+- Docker / Kubernetes 
+- Postgres
+- .net & co
 
 #### Not interested:
-- ~~Symfony~~
 - ~~Java~~
 - ~~Python~~
 - ~~Wordpress / WooCommerce ~~
